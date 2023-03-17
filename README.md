@@ -1,4 +1,3 @@
 # rozygames.github.io
 web for rozygames
-add https://evilnat.github.io/flashwriter/
-edit https://rozygames.github.io/flashwriter/
+add file:///C:/Users/ROZY%20GAMES/Downloads/PS3FlashWriter4.90/index.html
